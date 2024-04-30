@@ -16,3 +16,5 @@ pip install -r requirements.txt
 
 ![output1](https://github.com/Krishna311203/Street-Parking-Management/assets/96626364/ad298ac9-d75c-4cc4-acb3-cc8483acb6a7)
 ![output2](https://github.com/Krishna311203/Street-Parking-Management/assets/96626364/15fe2c47-dc35-49bc-9e54-5afa460ba463)
+
+The main file is in Dynamic_Pricing folder and the price output is in cost_info file
