@@ -9,3 +9,10 @@ To get started with the project, run the following command to get exact package 
 pip install -r requirements.txt
 ```
 
+
+
+# sample ouput screenshots
+
+
+![output1](https://github.com/Krishna311203/Street-Parking-Management/assets/96626364/ad298ac9-d75c-4cc4-acb3-cc8483acb6a7)
+![output2](https://github.com/Krishna311203/Street-Parking-Management/assets/96626364/15fe2c47-dc35-49bc-9e54-5afa460ba463)
