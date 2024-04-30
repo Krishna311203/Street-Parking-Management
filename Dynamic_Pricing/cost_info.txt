@@ -1,0 +1,3 @@
+Price of slot 7 is Rs.23.0 
+Price of slot 8 is Rs.6.0 
+Price of slot 10 is Rs.28.0 
